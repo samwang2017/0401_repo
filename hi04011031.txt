@@ -13,3 +13,5 @@ git push origin0401 master:master
 ,is:
 git push -u origin0401 mater --testing
 04011050.
+
+after push ,the command up is works.
