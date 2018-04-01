@@ -5,3 +5,11 @@ error: src refspec HEAD does not match any.
 the right fixed way is:
 after init a local repo,you need to git add to make a git local mater,then git push will work!
 on 04011047.
+
+
+
+now git push command not:
+git push origin0401 master:master
+,is:
+git push -u origin0401 mater --testing
+04011050.
