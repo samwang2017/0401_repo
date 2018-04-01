@@ -1,0 +1,7 @@
+fix a bug:
+error: src refspec master does not match any.
+error: src refspec HEAD does not match any.
+
+the right fixed way is:
+after init a local repo,you need to git add to make a git local mater,then git push will work!
+on 04011047.
